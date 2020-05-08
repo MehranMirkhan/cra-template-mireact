@@ -1,0 +1,50 @@
+{
+  "en": {
+    "translation": {}
+  },
+  "fa": {
+    "translation": {
+      "Blog": "بلاگ",
+      "Cancel": "انصراف",
+      "Change Password": "تغییر رمز عبور",
+      "Confirm New Password": "تکرار رمز عبور جدید",
+      "Confirm Password": "تکرار رمز عبور",
+      "Correct": "صحیح",
+      "Docs": "اسناد",
+      "Edit": "ویرایش",
+      "Email": "ایمیل",
+      "Error": "خطا",
+      "Error connecting to server": "خطا در ارتباط با سرور",
+      "Examples": "نمونه‌ها",
+      "Home": "صفحه اصلی",
+      "image": "تصویر",
+      "Language": "زبان",
+      "Login": "ورود",
+      "Signin": "ورود",
+      "Signin / Signup": "ورود / ثبت نام",
+      "Name": "نام",
+      "Network Error": "خطا در ارتباط با سرور",
+      "New Password": "رمز عبور جدید",
+      "OK": "قبول",
+      "Old Password": "رمز عبور قبلی",
+      "Password": "رمز عبور",
+      "Password and password confirm do not match": "تکرار رمز عبور تطبیق ندارد",
+      "Password confirm is empty": "تکرار رمز عبور وارد نشده است",
+      "Password is empty": "رمز عبور وارد نشده است",
+      "Password must be more than 5 characters": "رمز عبور باید بیشتر از ۵ حرف داشته باشد",
+      "Phone": "شماره همراه",
+      "Phone number is empty": "شماره همراه وارد نشده است",
+      "Phone is already used": "شماره همراه قبلا استفاده شده است",
+      "Please signup first": "لطفا ابتدا ثبت نام کنید",
+      "Profile": "صفحه کاربری",
+      "Signup": "ثبت نام",
+      "Settings": "تنظیمات",
+      "Submit": "ثبت",
+      "time": "زمان",
+      "Unknown Error": "خطای نامشخص",
+      "Updated": "اصلاح شد",
+      "Username": "نام کاربری",
+      "Wrong credentials": "نام کابری یا رمز عبور اشتباه است"
+    }
+  }
+}

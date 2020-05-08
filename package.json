@@ -1,6 +1,6 @@
 {
   "name": "cra-template-mireact",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "react",
     "create-react-app",
@@ -8,16 +8,17 @@
     "mireact"
   ],
   "description": "A custom template for Create React App.",
+  "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MehranMirkhan/mireact.git"
+    "url": "https://github.com/MehranMirkhan/cra-template-mireact.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/MehranMirkhan/mireact/issues"
+    "url": "https://github.com/MehranMirkhan/cra-template-mireact/issues"
   },
   "files": [
     "template",

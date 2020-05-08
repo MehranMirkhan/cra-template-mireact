@@ -1,0 +1,14 @@
+{
+  "persistKey": "ugQzcAOtUd",
+  "apiURL": "http://localhost/api",
+  "apiVer": "v1",
+  "requestTimeout": 5000,
+  "alertTimeout": 5000,
+  "i18n": {
+    "lng": "en",
+    "fallbackLng": "en",
+    "debug": false
+  },
+  "langs": { "en": "English", "fa": "فارسی" },
+  "mode": "dev"
+}
